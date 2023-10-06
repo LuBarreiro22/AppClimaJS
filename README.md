@@ -1,4 +1,4 @@
-# AppClimaJS
+# Aplicación del Clima
 
 Link 👉 https://clima-js-lubarreiro.netlify.app/
 
